@@ -25,7 +25,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Understanding different types of vulnerabilities (CWE) | Performing Vulnerability Research|
+| Understanding different types of vulnerabilities (CWE) | <a href="https://github.com/Epiphany8783/Performing-Vulnerability-Research/tree/main">Performing Vulnerability Research</a>|
 | Identifying specific vulnerabilities in systems (CVE) | Performing Vulnerability Research|
 | Using NVD for details and remediation steps for known vulnerabilities | Performing Vulnerability Research|
 
@@ -54,4 +54,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
 - Detection Lab
 - SOC Automation Project
-- Test Project
+- <a href="https://github.com/Epiphany8783/Performing-Vulnerability-Research/tree/main">Performing Vulnerability Research</a>
